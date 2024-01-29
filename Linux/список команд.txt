@@ -1,0 +1,24 @@
+cat > pets.txt
+cat  pets.txt
+cat > pack_animals.txt
+ll
+cat pack_animals.txt
+cat pets.txt pack_animals.txt > human_frends.txt
+cat human_frends.txt
+ls
+mkdir Human_frends
+mv pets.txt Human_frends
+ls
+mv human_frends.txt Human_frends
+ls
+cd Human_frends
+ll
+mv pets.txt GB
+cd GB
+ls -al
+cd Human_frends
+ls -al
+ll
+cd GB
+history
+voldm@voldm:~$
